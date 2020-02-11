@@ -1,0 +1,30 @@
+Circuit: * E:\8th_Sem\EE360A\Assignments\Assignment2\Q6\Draft4.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:      d2          d1
+Model:   diodesc     diodesc
+Id:      2.43e-14    4.16e-14
+Vd:      2.00e-02    4.00e-02
+Req:     9.96e+11    9.93e+11
+CAP:     0.00e+00    0.00e+00
+
+
+
+Date: Tue Feb 11 22:19:31 2020
+Total elapsed time: 2.222 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 9
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 168 bytes object code size
+Matrix Compiler2: 301 bytes object code size
