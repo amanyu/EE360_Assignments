@@ -1,4 +1,4 @@
-Voc = 2.916V
+Voc = 14.577V
 Something strange happening at R = 304m
-6a)  20% of Voc = 0.583V, R = 
-6b)  95% of Voc = 2.7702
+6a)  20% of Voc = 2.9154V ,  I = 2A      => R = V/I = 1.4577
+6b)  95% of Voc = 13.84815,  I = 1.69A   => R = V/I = 8.194 ohm
