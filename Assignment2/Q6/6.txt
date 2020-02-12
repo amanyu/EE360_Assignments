@@ -1,0 +1,4 @@
+Voc = 2.916V
+Something strange happening at R = 304m
+6a)  20% of Voc = 0.583V, R = 
+6b)  95% of Voc = 2.7702
